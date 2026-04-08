@@ -27,20 +27,11 @@
 ## 🛠 Languages and Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=python,javascript,java,git&theme=dark"
+      alt="Languages and Tools"
+    />
   </a>
 </p>
 
@@ -49,17 +40,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=576469377&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-    alt="Jilin Yu's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=576469377&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/576469377?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/576469377?style=for-the-badge&logo=github&label=Followers&color=58A6FF"
+      alt="GitHub Followers"
+    />
+  </a>
+  <a href="https://github.com/576469377?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/576469377?style=for-the-badge&logo=github&label=Stars&color=F7B93E"
+      alt="GitHub Stars"
+    />
+  </a>
+  <a href="https://github.com/576469377">
+    <img
+      src="https://img.shields.io/badge/Profile-576469377-24292F?style=for-the-badge&logo=github"
+      alt="GitHub Profile"
+    />
+  </a>
 </p>
 
 ---
